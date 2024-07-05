@@ -11,6 +11,14 @@ This is part of the Cyfrin Foundry Blockchain Developer Course.
 
 For a more in depth blog on working with remix, [read here](https://docs.chain.link/docs/deploy-your-first-contract/)
 
+## Getting started (zkSync)
+
+1. Go to [Remix](https://remix.ethereum.org/)
+2. Paste the code from `FundMezkSync.sol` into a new file inside a solder named `contracts` in Remix
+3. Head to the zkSync plugin tab
+4. Hit `Compile`
+5. Hit `Deploy`
+
 # Thank you!
 
 If you appreciated this, feel free to follow me or donate!
