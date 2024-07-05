@@ -16,8 +16,8 @@ For a more in depth blog on working with remix, [read here](https://docs.chain.l
 1. Go to [Remix](https://remix.ethereum.org/)
 2. Paste the code from `FundMezkSync.sol` into a new file inside a solder named `contracts` in Remix
 3. Head to the zkSync plugin tab
-3. Hit `Compile`
-4. Hit `Deploy`
+4. Hit `Compile`
+5. Hit `Deploy`
 
 # Thank you!
 
